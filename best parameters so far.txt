@@ -1,0 +1,29 @@
+Best Configuration Found:
+{
+  "alpha": 0.001,
+  "batch_size": 64,
+  "buffer_size": 50000,
+  "epsilon": 0.05,
+  "epsilon_decay": 0.99995,
+  "gamma": 0.97,
+  "learning_rate_decay": 0.9999,
+  "min_epsilon": 0.01
+}
+
+Best Configuration Metrics:
+{
+  "wins": 956,
+  "losses": 892,
+  "draws": 152,
+  "splits": 67,
+  "blackjacks": 96,
+  "busts": 278,
+  "total_reward": 110.5,
+  "win_rate": 51.6,
+  "avg_reward": 0.05525,
+  "split_rate": 3.35,
+  "blackjack_rate": 4.8,
+  "bust_rate": 13.900000000000002,
+  "reward_variance": 1.0328224375000001
+}
+

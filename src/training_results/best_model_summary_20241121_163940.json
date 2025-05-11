@@ -1,0 +1,28 @@
+{
+  "model_path": "training_results/best_model_20241121_163940.json",
+  "configuration": {
+    "alpha": 0.001,
+    "batch_size": 64,
+    "buffer_size": 50000,
+    "epsilon": 0.05,
+    "epsilon_decay": 0.99995,
+    "gamma": 0.97,
+    "learning_rate_decay": 0.9999,
+    "min_epsilon": 0.01
+  },
+  "metrics": {
+    "wins": 881,
+    "losses": 959,
+    "draws": 160,
+    "splits": 61,
+    "blackjacks": 106,
+    "busts": 219,
+    "total_reward": -6.0,
+    "win_rate": 48.05,
+    "avg_reward": -0.003,
+    "split_rate": 3.05,
+    "blackjack_rate": 5.3,
+    "bust_rate": 10.95,
+    "reward_variance": 1.060491
+  }
+}

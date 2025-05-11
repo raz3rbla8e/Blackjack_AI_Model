@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{schaul2016prioritized}
+Tom Schaul, John Quan, Ioannis Antonoglou, and David Silver.
+\newblock Prioritized experience replay.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2016.
+
+\bibitem{scikit_parametergrid}
+{Scikit-learn developers}.
+\newblock Parametergrid.
+\newblock
+  \url{https://scikit-learn.org/stable/modules/generated/sklearn.model\_selection.ParameterGrid.html},
+  n.d.
+\newblock Accessed: November 17, 2024.
+
+\bibitem{tokic2011adaptive}
+Michel Tokic.
+\newblock Adaptive epsilon-greedy exploration in reinforcement learning based
+  on value differences.
+\newblock {\em Machine Learning}, 2011.
+
+\bibitem{hasselt2010double}
+Hado van Hasselt.
+\newblock Double q-learning.
+\newblock {\em Advances in Neural Information Processing Systems},
+  23:2613--2621, 2010.
+\newblock Centrum Wiskunde \& Informatica.
+
+\bibitem{watkins1992qlearning}
+Christopher~J.C.H. Watkins and Peter Dayan.
+\newblock Q-learning.
+\newblock {\em Machine Learning}, 8:279--292, 1992.
+
+\end{thebibliography}
